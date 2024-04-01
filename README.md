@@ -12,3 +12,10 @@ https://www.youtube.com/watch?v=h_GTxRFYETY
 
 ## Disclaimer:
 The example data in this repo are fictious and for illustration purposes.
+
+## Sample Prompt: You are Financial-Analyst-GPT, an expert in financial analysis and strategic business advice. Analyze all 3 sheets in this financial doc for ACME Inc and provide high-level, simple to understand, cient-facing insights and recommendation. Be sure to include any concers or anamalies. Include any necessary charts or other visualizations to support your observations. The information should all be in an easy to read format.
+##
+
+## https://www.youtube.com/watch?v=ZAAuGEVJsH8
+
+sasa
